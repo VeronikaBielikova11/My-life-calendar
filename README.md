@@ -68,5 +68,7 @@ Warning: importing replaces the current calendar data in your browser. Don't sha
 
 ## 📥 Download
 * Click the link to download the file: [My Life Calendar](https://github.com/user-attachments/files/33467769/my-life-calendar.html) 🦜
+  
+<img width="1347" height="892" alt="Screenshot 2026-10-15 at 05 34 59" src="https://github.com/user-attachments/assets/9ef5c6c3-f97c-4998-9248-5119090b5469" />
 
 **The calendar is best used on a desktop computer or laptop. The design is not adapted for phones or tablets.*
